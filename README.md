@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Master Head](https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1)
+
 <h1 align= "Center"> Hey, This is Manish Dhanapal 👋</h1>
 <p align= "Center"> A passionate Front end developer</p>
 
