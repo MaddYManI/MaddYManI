@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Responsive web design**
 - 🌱 I’m currently learning **React**
 - 👨‍💻 My first resposive design project is **[Little Lemon](https://github.com/MaddYManI/Web-practice)**
+- 💬 Ask me about **React, HTML, CSS, JavaScript**
