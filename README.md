@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MaddYManI/MaddYManI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align= "Center"> Hey, This is Manish Dhanapal 👋</h1>
+<p align= "Center"> A passionate Front end developer</p>
+
+- 🔭 I’m currently working on **Responsive web design**
+- 🌱 I’m currently learning **React**
+- 👨‍💻 My first resposive design project is **[Little Lemon](https://github.com/MaddYManI/Web-practice)**
