@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Responsive web design**
 - 🌱 I’m currently learning **React**
 - 👨‍💻 My first resposive design project is **[Little Lemon](https://github.com/MaddYManI/Web-practice)**
+- 🌆 My first UI design using Figma is  **[Little Lemon for reserving a table](https://github.com/MaddYManI/Little_Lemon-UI-design)**
 - 💬 Ask me about **React, HTML, CSS, JavaScript**
