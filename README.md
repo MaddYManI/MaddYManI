@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <h1 align= "Center"> Hey, This is Manish Dhanapal 👋</h1>
 <p align= "Center"> A passionate Front end developer</p>
 
-- 🔭 I’m currently working on **Responsive web design**
 - 🌱 I’m currently learning **React**
 - 👨‍💻 My first resposive design project is **[Little Lemon](https://github.com/MaddYManI/Web-practice)**
 - 👨‍💻 My first freelance project is **[DogsAI](https://dogsai.in)**
